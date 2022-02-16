@@ -2,6 +2,8 @@ baseURL = 'https://volatile-notepad.netlify.app/'
 languageCode = 'ja'
 title = '揮発性メモ帳'
 
+enableEmoji = true
+
 theme = "m10c"
 
 [params]
