@@ -1,0 +1,19 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja'
+title = '揮発性メモ帳'
+
+theme = "m10c"
+
+[params]
+  author = "syuparn"
+  description = "ゆるゆる技術めも。ネタ記事多め"
+  avatar = "/images/avatar.png"
+  favicon = "/images/favicon.ico"
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/Syuparn"
+  [[params.social]]
+    icon = "link"
+    name = "Qiita"
+    url = "https://qiita.com/Syuparn"
