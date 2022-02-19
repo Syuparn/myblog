@@ -19,3 +19,7 @@ theme = "m10c"
     icon = "link"
     name = "Qiita"
     url = "https://qiita.com/Syuparn"
+  [[params.social]]
+    icon = "info"
+    name = "About"
+    url = "https://volatile-notepad.netlify.app/post/20220216_helloworld/"
