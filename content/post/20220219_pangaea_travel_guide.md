@@ -1,10 +1,10 @@
 +++
-title = "webassemblyで自作言語のplaygroundを作ってみた"
-tags = ["go", "webassembly", "自作言語", "pangaea"]
+title = "自作言語のオンラインチュートリアルを作ってみた【Pangaea Travel Guide】"
+tags = ["svelte", "自作言語", "pangaea"]
 date = "2022-02-19"
 +++
 
-**(この記事は、2021年にQiitaに上げた[記事](https://qiita.com/Syuparn/items/7463fd798dc0ab94f468)の再投稿です。内容が古くなっている可能性がありますのでご了承ください。)**
+**(この記事は、2021年にQiitaに上げた[記事](https://qiita.com/Syuparn/items/fbd81da157faa33c62da)の再投稿です。内容が古くなっている可能性がありますのでご了承ください。)**
 
 # TL;DR
 
