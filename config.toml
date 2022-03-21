@@ -8,7 +8,7 @@ theme = "m10c"
 
 [params]
   author = "syuparn"
-  description = "ゆるゆる技術めも。ネタ記事多め"
+  description = "ゆるゆる技術めも。Qiitaサブ垢"
   avatar = "/images/avatar.png"
   favicon = "/images/favicon.ico"
   [[params.social]]
