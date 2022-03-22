@@ -3,6 +3,7 @@ languageCode = 'ja'
 title = '揮発性メモ帳'
 
 enableEmoji = true
+enableRobotsTXT = true
 
 theme = "m10c"
 
