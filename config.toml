@@ -24,3 +24,7 @@ theme = "m10c"
     icon = "info"
     name = "About"
     url = "https://volatile-notepad.netlify.app/post/20220216_helloworld/"
+  [[params.social]]
+    icon = "rss"
+    name = "RSS Feed"
+    url = "https://volatile-notepad.netlify.app/index.xml"
