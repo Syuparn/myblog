@@ -91,7 +91,7 @@ func main() {
 		}
 	})
 	var vms []mo.VirtualMachine
-	props := []string{"summary"}
+	props := []string{"summary", "guest.ipAddress"}
 
 	c, err := govmomi.NewClient(ctx, url, true)
 	if err != nil {
