@@ -1,7 +1,7 @@
 +++
 title = "vCenterの小ネタ: APIリクエストのXMLサイズ上限"
 tags = ["vsphere", "govc"]
-date = "2022-04-15"
+date = "2022-05-04"
 +++
 
 # TL; DR
